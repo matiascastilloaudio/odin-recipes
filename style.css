@@ -1,25 +1,35 @@
 body{
-    background-color: salmon;
+    background-color: whitesmoke;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
 }
 h1,
 h2,
 h3 {
-    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    color: white;
 }
 
-ul{
+ul,
+ol {
     font-family: 'Courier New', Courier, monospace;
     font-size: 15px;
-    color: white;
+    margin: 50px 50px;
 }
- li{
-    color: white;
- }
+
+p{
+    padding: 0 300px;
+    text-align: center;
+}
 
  img{
     width: 500px;
     height: auto;
     padding: 20px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 50px;
  }
