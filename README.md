@@ -1,1 +1,2 @@
-"Project: Recipes" for The Odin Project Curriculum
+# Recipes
+The Odin Project - Foundations Course
